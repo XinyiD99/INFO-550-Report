@@ -26,6 +26,12 @@
 `Makefile`
 
   - makefile to generate the data, models and reports.
+  
+## Data description
+
+The data is directed downloaded form Kaggle in code/01_data_clean.r and saved in cleaned data. Please refer to cleaned.rds for the data. 
+
+The dataset includes 462 observations in terms of 10 variables, mainly medical data relating to medical data and cardiovascular disease, including systolic blood pressure (SBP), cumulative tobacco consumption, family history of heart disease, adiposity and overweight, age and coronary heart disease.
 
 ------------------------------------------------------------------------
 
