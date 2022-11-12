@@ -1,4 +1,3 @@
-library(here)
 here::i_am("code/02_model.R")
 ## CHD Patients
 data <- readRDS(
